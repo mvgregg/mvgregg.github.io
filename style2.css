@@ -1,24 +1,20 @@
-.d-block{
-  height: 700px;
-}
-
-body{
-  font-family: 'Rock Salt', cursive;
-}
-.navbar-dark .navbar-brand {
-  }
-.jumbotron{
-  background-size: cover;
-}
-
-  .jumbotron img{
-    width:100px;
-  }
 h1{
-  color: white;
-  font-weight: bold;
+  font-family: 'Indie Flower', cursive;
   text-align: left;
 }
+
+.navbar-dark .navbar-brand {
+  }
+
+.jumbotron{
+  background-size: cover;
+  background-color: black;
+}
+
+.subsitepic{
+  width: 400px;
+}
+
 h3{
-  text-align: center
+  text-align: left;
 }
