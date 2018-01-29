@@ -1,0 +1,24 @@
+.d-block{
+  height: 700px;
+}
+
+body{
+  font-family: 'Rock Salt', cursive;
+}
+.navbar-dark .navbar-brand {
+  }
+.jumbotron{
+  background-size: cover;
+}
+
+  .jumbotron img{
+    width:100px;
+  }
+h1{
+  color: white;
+  font-weight: bold;
+  text-align: left;
+}
+h3{
+  text-align: center
+}
